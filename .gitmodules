@@ -1,0 +1,21 @@
+[submodule "dapple"]
+	path = dapple
+	url = git@github.com:mhhf/dapple.git
+[submodule "dapple-test"]
+	path = dapple-test
+	url = git@github.com:nexusdev/dapple-test.git
+[submodule "dapple-script"]
+	path = dapple-script
+	url = git@github.com:nexusdev/dapple-script.git
+[submodule "dapple-wevm"]
+	path = dapple-wevm
+	url = git@github.com:nexusdev/dapple-wevm.git
+[submodule "dapple-core"]
+	path = dapple-core
+	url = git@github.com:nexusdev/dapple-core.git
+[submodule "dapple-pkg"]
+	path = dapple-pkg
+	url = git@github.com:nexusdev/dapple-pkg.git
+[submodule "dapple-chain"]
+	path = dapple-chain
+	url = git@github.com:nexusdev/dapple-chain.git
