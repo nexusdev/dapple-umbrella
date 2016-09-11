@@ -19,3 +19,6 @@
 [submodule "dapple-chain"]
 	path = dapple-chain
 	url = git@github.com:nexusdev/dapple-chain.git
+[submodule "dapple-nss"]
+	path = dapple-nss
+	url = git@github.com:nexusdev/dapple-nss.git
